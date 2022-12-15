@@ -12,13 +12,13 @@ export default function sectionHeader() {
                     <Link href="/works">WORKS</Link>
                 </div>
                 <div>
-                    <Link href="/works">COVERS</Link>
+                    <Link href="/covers">COVERS</Link>
                 </div>
                 <div>
-                    <Link href="/works">ABOUT</Link>
+                    <Link href="/about">ABOUT</Link>
                 </div>
                 <div>
-                    <Link href="/works">CONTACT</Link>
+                    <Link href="/contact">CONTACT</Link>
                 </div>
             </div>
             <div>
