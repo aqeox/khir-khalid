@@ -5,8 +5,7 @@ import Link from "next/link";
 export default function sectionHeader() {
     return (
 
-        <div className=" absolute left-24 top-0 h-19 w-19">
-
+        <div className="">
             <div>
                 <div>
                     <Link href="/works">WORKS</Link>
