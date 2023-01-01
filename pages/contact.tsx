@@ -6,6 +6,14 @@ export default function works() {
     return (
         <div>
             <SectionHeader />
-        </div>
+            <div>
+
+                <p>
+                    For enquiries, please email
+                    INFO@CHUANDOANDFREY.COM
+                </p>
+
+            </div>
+        </div >
     )
 }
