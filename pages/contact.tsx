@@ -1,16 +1,15 @@
 import React from 'react'
-import SectionHeader from "../components/sectionHeader";
 
 
 export default function works() {
     return (
         <div>
-            <SectionHeader />
-            <div>
-
+            <div className='text-[11px] mt-40'>
                 <p>
                     For enquiries, please email
-                    INFO@CHUANDOANDFREY.COM
+                </p>
+                <p className='text-gray-300'>
+                INFO@CHUANDOANDFREY.COM
                 </p>
 
             </div>
