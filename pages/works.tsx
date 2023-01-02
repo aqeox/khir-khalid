@@ -1,5 +1,8 @@
+/* eslint-disable @next/next/no-img-element */
 import React from 'react'
+
 import { workImages } from '../utils/coverImages'
+
 
 export default function works() {
 
